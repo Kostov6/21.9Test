@@ -1,4 +1,4 @@
 # File1 from module
-## initial version
+## updated version
 
-[File2 initial version](./submodule/file2.md)
+[File2 updated version](./submodule/file2.md)
