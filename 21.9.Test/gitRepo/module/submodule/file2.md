@@ -1,4 +1,4 @@
 # File1 from submodule
-## initial version
+## updated version
 
-[File1 initial version](../file1.md)
+[File1 updated version](../file1.md)
